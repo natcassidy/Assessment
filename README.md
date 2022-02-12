@@ -2,6 +2,7 @@
 
 This is my solution to designing a fan in Java with two pull cords. 
 To use this class, instaniate it with new Fan(). 
+Please note that a compiled .class file is provided for use as well.
 
 ### Public methods are as follows:
 
@@ -10,3 +11,4 @@ To use this class, instaniate it with new Fan().
 * getDirection(): This method returns a Direction enum of the current instantiated objects direction.
 * getSpeed(): This method returns a Speed enum of the current instantiated objects speed.
 * toString(): Calling this method provides a clean String representation of the instantiated fan object.
+
